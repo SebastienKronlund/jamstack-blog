@@ -21,6 +21,7 @@ const IndexPage = () => (
         </div>
       </div>
       <Link to="/blogposts/">View all posts</Link>
+      <Link to="/about/">Read more about us!</Link>
     </div>
   </Layout>
 )
